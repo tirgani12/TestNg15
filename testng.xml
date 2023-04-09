@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/ahmed/.jdks/testNGBasicsBatch15/src/test/java/class04/listener.java">
+        <classes>
+            <class name="class04.annatations02"></class>
+            <class name="class04.annotationBeforeClass"></class>
+        </classes>
+        
+    </test>
+    <test name="abc">
+        <packages>
+            <package name="class04"></package>
+        </packages>
+    </test>
+</suite>
